@@ -1,21 +1,19 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "shortcuts",
+  "version": "0.0.1",
+  "description": "A minimal utility to render usefull app shortcuts",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/sushrutb/shortcuts",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "shortcuts",
+    "utility"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Sushrut Bidwai",
+  "license": "MIT",
   "devDependencies": {
     "electron": "~1.6.2"
   }
